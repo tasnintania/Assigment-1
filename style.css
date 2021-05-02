@@ -1,3 +1,10 @@
+
+
+li {
+   float: right;
+    padding: 15px;
+    list-style: none;
+  }
 body{
     font-family: 'Roboto Slab', serif;
 }
